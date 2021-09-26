@@ -1,3 +1,7 @@
+// https://leetcode.com/problems/course-schedule-ii/
+// 채점 : 8 ms	40.3 MB
+// 공간 : O(N^2) 시간 : O(V+E)
+
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
