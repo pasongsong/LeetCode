@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/triangle/
+// Runtime: 2 ms, faster than 92.04% of Java online submissions for Triangle.
+// Memory Usage: 38.9 MB, less than 52.02% of Java online submissions for Triangle.
 
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
